@@ -10,7 +10,12 @@
         <Company>Dark</Company>
         <PackageDescription>This package features additional IO methods</PackageDescription>
         <RepositoryUrl>https://github.com/MarkusRodler/Dark.IO</RepositoryUrl>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
         <IsTrimmable>true</IsTrimmable>
     </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="README.md" pack="true" PackagePath="." />
+    </ItemGroup>
 
 </Project>

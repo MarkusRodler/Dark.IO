@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <LangVersion>11.0</LangVersion>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <PackageId>Dark.IO</PackageId>
+        <Authors>Markus Rodler</Authors>
+        <Company>Dark</Company>
+        <PackageDescription>This package features additional IO methods</PackageDescription>
+        <RepositoryUrl>https://github.com/MarkusRodler/Dark.IO</RepositoryUrl>
+        <IsTrimmable>true</IsTrimmable>
+    </PropertyGroup>
+
+</Project>

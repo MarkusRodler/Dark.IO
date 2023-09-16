@@ -1,0 +1,20 @@
+{
+    "csharp.semanticHighlighting.enabled": true,
+    "dotnet.completion.showCompletionItemsFromUnimportedNamespaces": true,
+    "dotnet.defaultSolution": "Dark.IO.sln",
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+        120
+    ],
+    "files.eol": "\n",
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "files.exclude": {
+        "**/bin": true,
+        "**/obj": true
+    },
+    "git.rebaseWhenSync": true,
+    "omnisharp.enableEditorConfigSupport": true
+}

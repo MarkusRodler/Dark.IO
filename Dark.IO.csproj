@@ -11,6 +11,7 @@
         <PackageDescription>This package features additional IO methods</PackageDescription>
         <RepositoryUrl>https://github.com/MarkusRodler/Dark.IO</RepositoryUrl>
         <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageLicenseExpression>LGPL-2.1-only</PackageLicenseExpression>
         <IsTrimmable>true</IsTrimmable>
     </PropertyGroup>
 

@@ -1,5 +1,5 @@
 # Dark.IO (Library)
-![Library](https://github.com/MarkusRodler/Dark.IO/workflows/.NET/badge.svg)
+![Library](https://github.com/MarkusRodler/Dark.IO/workflows/Library/badge.svg)
 
 ## How to use
 
